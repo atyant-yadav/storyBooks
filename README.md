@@ -1,6 +1,6 @@
 # storyBooks
 \
-A simple NodeJs web-app (main aim to learn back-end with node)\
+A simple NodeJs web-app (main aim to learn back-end with node)
 
 Technologies Used:-
 1. Node(NPM)
